@@ -1,0 +1,54 @@
+.right-form{
+	
+	-fx-background-color:linear-gradient(to bottom right, #4a0715,#31074a);
+	-fx-border-color:#000;
+	-fx-border-width:.4px 0.0px .4px .4px; 
+}
+
+ .leftt-form{
+	
+	-fx-background-color:linear-gradient(to bottom right,#000000,#003333, #330019,#6B0000);
+	-fx-border-color:#000;
+	-fx-border-width:.4px 0.0px .4px .4px; 
+}
+
+
+/* .left-form{
+	
+	-fx-background-color:linear-gradient(to bottom right, #000000,#000000,#ffffff);
+	-fx-border-color:#000;
+	-fx-border-width:.4px 0.0px .4px .4px; 
+}*/
+
+.close{
+	-fx-background-color:transparent;
+	-fx-cursor:hand;
+	
+	
+}
+
+.close:hover{
+	-fx-background-color:#ff3547;
+	
+	
+}
+
+.body-bg{
+	-fx-background-image:url("/application/Marble.jpeg");
+	
+}
+
+.login-btn{
+	-fx-background-color:linear-gradient(to bottom,#000000,#003333, #330019,#6B0000);
+	-fx-background-radius:5px;
+	-fx-text-fill:#fff;
+	-fx-font-size:14px;
+	-fx-font-family:"Arial";
+	-fx-cursor:hand;
+		
+}
+
+.login-btn:hover{
+	-fx-background-color:linear-gradient(to bottom,#000000,#003333, #330019,#6B0000 );
+	
+}
