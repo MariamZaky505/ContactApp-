@@ -42,7 +42,7 @@ The application uses **MySQL** for database storage and includes a **modern UI**
 - Backup/restore feature  
 
 ---
-📌 Future Updates
+## 📌 Future Updates
 Future versions will include more features, UI improvements, and bug fixes.
 
 ## How to Run
